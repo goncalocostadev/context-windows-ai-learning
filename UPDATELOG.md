@@ -1,0 +1,1 @@
+update the Log1.md file with what we did today.
