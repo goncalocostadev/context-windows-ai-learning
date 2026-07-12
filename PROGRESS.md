@@ -24,7 +24,7 @@ Topics
 
 - [x] Variables & Data Types
 - [x] Type Conversion
-- [ ] Arithmetic, Comparison & Logical Operators
+- [x] Arithmetic, Comparison & Logical Operators
 - [ ] Nullish Coalescing
 - [ ] Optional Chaining
 - [ ] Conditionals
