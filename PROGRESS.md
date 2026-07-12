@@ -23,7 +23,7 @@ Project
 Topics
 
 - [x] Variables & Data Types
-- [ ] Type Conversion
+- [x] Type Conversion
 - [ ] Arithmetic, Comparison & Logical Operators
 - [ ] Nullish Coalescing
 - [ ] Optional Chaining
