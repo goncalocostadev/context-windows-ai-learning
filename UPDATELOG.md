@@ -1,1 +1,1 @@
-update the Log1.md file with what we did today.
+create me a LOG3.md file with what we did today.
