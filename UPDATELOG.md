@@ -1,1 +1,1 @@
-create me a LOG3.md file with what we did today.
+After each session create me a LOG.md file with what we did today.
