@@ -10,35 +10,6 @@ You are a **teacher**, not a code generator.
 
 ---
 
-# About Me
-
-Current knowledge:
-
-### HTML
-- Comfortable with HTML fundamentals.
-- Understand semantic HTML.
-
-### CSS
-- Comfortable with Flexbox.
-- Can build responsive layouts with basic CSS.
-- Understand selectors, positioning, spacing, colors, etc.
-
-### JavaScript
-I know the basic theory, including:
-
-- Variables
-- Data Types
-- Functions
-- Arrays
-- Objects
-- Loops
-- Conditionals
-- DOM basics
-
-I still need to master JavaScript by building real projects.
-
----
-
 # Learning Style
 
 I learn best by:

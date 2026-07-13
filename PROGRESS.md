@@ -1,212 +1,515 @@
 # Progress
 
-## Phase 0 — Professional Foundations
+> **Rule:** Don't move to the next phase until you can complete the capstone project without following a tutorial.
 
-Topics
+---
+
+# Phase 0 — Professional Foundations
+
+## Topics
 
 - [x] VS Code
 - [x] Terminal
 - [x] Git
 - [x] GitHub
-- [x] Debugging
 - [x] Chrome DevTools
-- [x] Reading documentation
-
-Project
-
-- [ ] Portfolio Website
+- [x] Debugging
+- [x] Reading Documentation
+- [x] Markdown
+- [x] Environment Variables
+- [x] Command Line Basics
 
 ---
 
-## Phase 1 — JavaScript Foundations
+# Phase 1 — HTML & CSS
 
-Topics
+## HTML
 
-- [x] Variables & Data Types
+- [ ] Forms
+- [ ] Tables
+- [ ] Audio & Video
+- [ ] Accessibility
+- [ ] Semantic HTML
+- [ ] Labels
+- [ ] Alt Text
+- [ ] ARIA Basics
+- [ ] Keyboard Navigation
+
+## CSS
+
+### Layout
+
+- [ ] CSS Grid
+- [ ] Responsive Design
+- [ ] Media Queries
+- [ ] Container Queries
+
+### Styling
+
+- [ ] CSS Custom Properties (Variables)
+- [ ] Pseudo Classes
+- [ ] Pseudo Elements
+- [ ] Transitions
+- [ ] Transforms
+- [ ] Animations
+
+## Exit Criteria
+
+- Build a fully responsive website from a design
+- Create accessible forms using semantic HTML
+- Know when to use Flexbox vs Grid
+- Build layouts that work on mobile, tablet, and desktop
+- Use CSS variables to create maintainable styles
+- Add polished interactions with transitions and animations
+
+## Projects
+
+- [ ] Responsive Landing Page
+- [ ] Pricing Page
+- [ ] Contact Form
+- [ ] Responsive Blog Layout
+
+## Capstone
+
+- [ ] Multi-page Responsive Website
+
+---  
+
+# Phase 1 — JavaScript Fundamentals
+
+## Language Basics
+
+- [x] Variables
+- [x] Data Types
 - [x] Type Conversion
-- [x] Arithmetic, Comparison & Logical Operators
-- [ ] Nullish Coalescing
-- [ ] Optional Chaining
+- [x] Arithmetic Operators
+- [x] Comparison Operators
+- [x] Logical Operators
+
+## Control Flow
+
 - [ ] Conditionals
 - [ ] Switch
 - [ ] Loops
+
+## Functions
+
 - [ ] Function Declarations
 - [ ] Function Expressions
 - [ ] Arrow Functions
 - [ ] Parameters
 - [ ] Return Values
-- [ ] Scope Basics
+- [ ] Scope
+
+## Modern JavaScript
+
+- [ ] Template Literals
+- [ ] Destructuring
+- [ ] Spread Operator
+- [ ] Rest Parameters
+- [ ] Optional Chaining
+- [ ] Nullish Coalescing
+
+## Data Structures
+
 - [ ] Arrays
 - [ ] Objects
-- [ ] Array Methods (forEach, map, filter, find, reduce, some, every)
-- [ ] Problem Solving
-- [ ] Debugging
+
+## Array Methods
+
+- [ ] forEach
+- [ ] map
+- [ ] filter
+- [ ] find
+- [ ] reduce
+- [ ] some
+- [ ] every
+- [ ] sort
+
+## Browser APIs
+
 - [ ] DOM
 - [ ] Events
 - [ ] Forms
 - [ ] Event Delegation
 
-Projects
+## Skills
+
+- [ ] Debugging
+- [ ] Problem Solving
+
+## Exit Criteria
+
+- Build small applications without tutorials
+- Manipulate the DOM confidently
+- Solve beginner JavaScript problems
+
+## Projects
 
 - [ ] Rock Paper Scissors
 - [ ] Calculator
-- [ ] To-Do List
 - [ ] Memory Game
+
+## Capstone
+
+- [ ] To-Do Application
 
 ---
 
-## Phase 2 — JavaScript Mastery
+# Phase 2 — Advanced JavaScript
 
-Topics
+## Core Concepts
 
 - [ ] Execution Context
+- [ ] Hoisting
 - [ ] Scope
 - [ ] Closures
-- [ ] Hoisting
 - [ ] this
+- [ ] Event Loop
+- [ ] Call Stack
+
+## Object-Oriented JavaScript
+
 - [ ] Prototypes
 - [ ] Classes
-- [ ] Modules
+
+## Modules
+
+- [ ] ES Modules
+
+## Asynchronous JavaScript
+
 - [ ] Error Handling
 - [ ] Promises
 - [ ] Async/Await
 - [ ] Fetch API
-- [ ] Event Loop
-- [ ] Call Stack
 
-Projects
+## Exit Criteria
+
+- Understand how JavaScript executes code
+- Build applications that consume APIs
+- Debug asynchronous code confidently
+
+## Projects
 
 - [ ] Weather App
-- [ ] Kanban Board
 - [ ] Expense Tracker
+
+## Capstone
+
+- [ ] Kanban Board
 
 ---
 
-## Phase 3 — Computer Science
+# Phase 3 — TypeScript
 
-Topics
+## Topics
+
+- [ ] Primitive Types
+- [ ] Objects
+- [ ] Interfaces
+- [ ] Type Aliases
+- [ ] Generics
+- [ ] Enums
+- [ ] Utility Types
+- [ ] Type Narrowing
+- [ ] Type Inference
+
+## Exit Criteria
+
+- Write fully typed applications
+- Understand TypeScript compiler errors
+- Convert JavaScript projects to TypeScript
+
+## Capstone
+
+- [ ] Convert previous JavaScript projects to TypeScript
+
+---
+
+# Phase 4 — Computer Science
+
+## Complexity
 
 - [ ] Big O
+
+## Data Structures
+
 - [ ] Arrays
 - [ ] Objects
 - [ ] Hash Maps
 - [ ] Linked Lists
-- [ ] Queues
 - [ ] Stacks
+- [ ] Queues
 - [ ] Trees
+
+## Algorithms
+
 - [ ] Recursion
+- [ ] Searching
+- [ ] Sorting
 
-Projects
+## Exit Criteria
 
-- [ ] Implement data structures yourself
+- Analyze algorithm complexity
+- Implement common data structures from scratch
+
+## Capstone
+
+- [ ] Build your own data structures library
 
 ---
 
-## Phase 4 — Backend
+# Phase 5 — Backend Development
 
-Topics
+## Node.js
 
-- [ ] Node.js
-- [ ] Express
-- [ ] REST APIs
-- [ ] Authentication
-- [ ] JWT
-- [ ] Cookies
+- [ ] Runtime
+- [ ] Modules
+- [ ] npm
+- [ ] File System
+
+## Express
+
+- [ ] Routing
+- [ ] Middleware
+- [ ] Error Handling
+
+## APIs
+
+- [ ] REST
+- [ ] CRUD
+- [ ] Validation
+
+## Authentication
+
 - [ ] Sessions
+- [ ] Cookies
+- [ ] JWT
 
-Projects
+## Testing
+
+- [ ] Unit Testing
+- [ ] Integration Testing
+
+## Deployment
+
+- [ ] Render
+- [ ] Railway
+
+## Exit Criteria
+
+- Build and deploy REST APIs
+- Implement secure authentication
+- Write automated tests
+
+## Projects
 
 - [ ] Blog API
 - [ ] Notes API
 - [ ] URL Shortener
+
+## Capstone
+
 - [ ] Authentication API
 
 ---
 
-## Phase 5 — Databases
+# Phase 6 — Databases
 
-Topics
+## SQL
 
 - [ ] PostgreSQL
-- [ ] SQL
+- [ ] SQL Fundamentals
 - [ ] Joins
+- [ ] Aggregation
 - [ ] Indexes
+- [ ] Transactions
 - [ ] Normalization
-- [ ] Prisma ORM
 
-Projects
+## ORM
+
+- [ ] Prisma
+
+## Exit Criteria
+
+- Design relational databases
+- Build efficient SQL queries
+- Integrate Prisma into backend applications
+
+## Projects
 
 - [ ] Inventory System
+
+## Capstone
+
 - [ ] CRM
 
 ---
 
-## Phase 6 — React
+# Phase 7 — React
 
-Topics
+## Fundamentals
 
 - [ ] Components
+- [ ] JSX
 - [ ] Props
 - [ ] State
-- [ ] Hooks
-- [ ] Context
-- [ ] Forms
-- [ ] Performance
 
-Projects
+## Hooks
+
+- [ ] useState
+- [ ] useEffect
+- [ ] useMemo
+- [ ] useCallback
+- [ ] useRef
+
+## Advanced React
+
+- [ ] Context
+- [ ] Custom Hooks
+- [ ] Forms
+- [ ] Performance Optimization
+
+## Testing
+
+- [ ] React Testing Library
+
+## Exit Criteria
+
+- Build modern React applications
+- Manage application state effectively
+- Write tested React components
+
+## Projects
 
 - [ ] Dashboard
+
+## Capstone
+
 - [ ] Admin Panel
-- [ ] E-commerce
 
 ---
 
-## Phase 7 — Next.js
+# Phase 8 — Next.js
 
-Topics
+## Topics
 
 - [ ] App Router
 - [ ] Server Components
 - [ ] Server Actions
+- [ ] Route Handlers
 - [ ] Authentication
+- [ ] Metadata API
+- [ ] Caching
+- [ ] Static vs Dynamic Rendering
 
-Projects
+## Deployment
 
-- [ ] SaaS
+- [ ] Vercel
+
+## Exit Criteria
+
+- Build production-ready Next.js applications
+- Understand server-first architecture
+
+## Projects
+
 - [ ] Blog
-- [ ] Portfolio V2
+
+## Capstone
+
+- [ ] SaaS Application
 
 ---
 
-## Phase 8 — Full Stack
+# Phase 9 — Full Stack Engineering
 
-Topics
+## Infrastructure
 
-- [ ] Stripe
-- [ ] Emails
-- [ ] File Uploads
 - [ ] Docker
 - [ ] Redis
-- [ ] CI/CD
+- [ ] File Uploads
+- [ ] Emails
+- [ ] Stripe
 
-Projects
+## CI/CD
 
-- [ ] SaaS Platform
+- [ ] GitHub Actions
+- [ ] Automated Deployments
+
+## Monitoring
+
+- [ ] Logging
+- [ ] Error Tracking
+
+## Exit Criteria
+
+- Deploy production applications
+- Build complete full-stack systems
+- Automate deployments
+
+## Projects
+
 - [ ] Booking App
-- [ ] LMS
-- [ ] Social Media Clone
+- [ ] Learning Management System
+
+## Capstone
+
+- [ ] Social Media Platform
 
 ---
 
-## Phase 9 — Advanced Engineering
+# Phase 10 — Software Engineering
 
-Topics
+## Code Quality
 
-- [ ] Testing
-- [ ] Vitest
-- [ ] Playwright
-- [ ] Security
-- [ ] Accessibility
-- [ ] Performance
+- [ ] Testing Strategy
+- [ ] Refactoring
+- [ ] Clean Code
+
+## Security
+
+- [ ] OWASP Top 10
+- [ ] Authentication Best Practices
+- [ ] Authorization
+
+## Performance
+
+- [ ] Profiling
 - [ ] Caching
-- [ ] Architecture
+- [ ] Database Optimization
+
+## Architecture
+
+- [ ] Design Patterns
+- [ ] System Design
+- [ ] Scalability
+
+## AI-Assisted Development
+
+- [ ] Prompt Engineering
+- [ ] AI Code Reviews
+- [ ] Context Management
+- [ ] Agentic Development Workflows
+
+## Exit Criteria
+
+- Design scalable applications
+- Ship production-ready software
+- Maintain long-term projects confidently
+
+## Final Capstone
+
+Build and deploy a production-ready SaaS application featuring:
+
+- [ ] Authentication
+- [ ] Payments
+- [ ] PostgreSQL
+- [ ] Prisma
+- [ ] Docker
+- [ ] CI/CD
+- [ ] Testing
+- [ ] Monitoring
+- [ ] Documentation
+- [ ] Production Deployment
